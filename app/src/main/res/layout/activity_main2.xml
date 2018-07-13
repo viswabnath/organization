@@ -58,7 +58,7 @@
                 android:drawableLeft="@drawable/ic_account_balance"
                 android:textSize="14sp"
                 android:drawablePadding="5dp"
-                android:id="@+id/orgname"
+                android:id="@+id/organizationname"
                 android:layout_marginBottom="15dp"
                 android:layout_marginTop="20dp"/>
 
